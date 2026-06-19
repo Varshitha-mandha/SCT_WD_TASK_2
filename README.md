@@ -1,79 +1,36 @@
-# CodeQuiz Pro 🎯
-
-An interactive and responsive quiz application developed as **Task 2** for the **SkillCraft Technology Web Development Internship**.
-
 ## 📌 Project Overview
 
-CodeQuiz Pro is a coding-themed quiz application that allows users to test their programming knowledge through multiple-choice questions. The application provides instant feedback, score tracking, and a detailed results summary.
+Calcify is a modern **Scientific Calculator** designed to perform both basic and advanced mathematical operations through an intuitive and responsive interface. The application provides a smooth user experience and helps users perform calculations efficiently across desktop and mobile devices.
 
 ## ✨ Features
 
-* 🎮 Interactive quiz experience
-* 📊 Real-time score tracking
-* 📈 Progress indicator
-* ✅ Instant feedback for correct answers
-* ❌ Wrong answer highlighting
-* 🟢 Green color indication for correct answers
-* 🔴 Red color indication for incorrect answers
-* 📝 Answer review section
-* 🔄 Restart quiz functionality
-* 📱 Fully responsive design
-* 🎨 Modern and attractive user interface
+### Basic Operations
 
-## 🧠 Quiz Topics
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* % Percentage
+* Decimal Calculations
 
-The quiz includes beginner-friendly programming questions covering:
+### Scientific Functions
 
-* HTML
-* CSS
-* Python
-* Data Structures
-* Artificial Intelligence
+* √ Square Root
+* x² Square
+* xʸ Power
+* sin() Sine
+* cos() Cosine
+* tan() Tangent
+* log() Logarithm
+* ln() Natural Logarithm
+* π (Pi) Constant
+* Factorial (!)
 
-## 📷 Screenshots
+### Additional Features
 
-Add screenshots of:
-
-* Welcome Screen
-* Quiz Interface
-* Results Page
-
-## 🛠️ Technologies Used
-
-* React
-* TypeScript
-* Vite
-* Tailwind CSS
-* shadcn/ui
-
-## 📂 Project Structure
-
-```text
-src/
-├── components/
-├── pages/
-├── data/
-├── hooks/
-├── App.tsx
-└── main.tsx
-```
-
-## 🎯 Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-* Building interactive web applications
-* Managing application state
-* Handling user interactions
-* Creating responsive user interfaces
-* Implementing score calculation logic
-
-## 🙏 Acknowledgment
-
-This project was completed as part of the **SkillCraft Technology Web Development Internship Program**.
-
-## 👩‍💻 Author
-
-**Varshitha Mandha**
-
-GitHub: https://github.com/Varshitha-mandha
+* 🧹 Clear and Delete Functions
+* 📱 Fully Responsive Design
+* 🎨 Modern User Interface
+* ⚡ Fast and Accurate Calculations
+* 🌙 Clean and Professional Layout
+* 🔢 Real-time Expression Evaluation
